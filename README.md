@@ -25,7 +25,7 @@
 </ul>
 
 <h1>Licencia Creative-Commons 📃</h1>
-<p>Se utilizará la licencia Atribución-No Comercial-Compartir Igual (CC BY-NC-SA 4.0) Con esta licencia se obtienen las siguiente condiciones:</p>
+<p>Se utilizará la licencia Atribución-No Comercial-Compartir Igual <b>(CC BY-NC-SA 4.0)</b> Con esta licencia se obtienen las siguiente condiciones:</p>
   <ol>
     <li>El beneficiario de la licencia tiene derecho a poder copiar, distribuir, exhibir y representar la obra en cuestión y hacer derivadas de esta siempre y cuando se reconozca y se cite la obra de la forma especificada por el autor.</li>
     <li>No se podrá utilizar para fines comerciales.</li>
