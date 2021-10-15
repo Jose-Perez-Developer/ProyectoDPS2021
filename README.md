@@ -18,7 +18,6 @@
 <h1>Creadores ✒️</h1>
 <p>Integrantes del equipo de desarrollo, estudiantes de la carrera de ingeniería en computación de la Universidad Don Bosco, El Salvador</p>
 <ul>
-  <li>Denilson Emmanuel Chávez Cruz</li>
   <li>Brayan Gerardo Gamez Ramírez</li>
   <li>David Enrique Moya Aguilar</li>
   <li>José Miguel Pérez Quintanilla</li>
@@ -35,6 +34,7 @@
 <h1>Enlaces de interés ⛓️</h1>
 <ul>
   <li>Tablero de proyecto [Trello] <b>Visitar en</b> https://trello.com/b/RBIj1zL2/proyecto </li>
+  <li>Primer Avance de Proyecto [PDF] <b>Visitar en</b> https://drive.google.com/file/d/10CMMi6z7IHpbYLddHGY9u2A45O8WJHYa/view?usp=sharing </li>
 </ul>
 
 
