@@ -18,8 +18,8 @@
 <h1>Creadores ✒️</h1>
 <p>Integrantes del equipo de desarrollo, estudiantes de la carrera de ingeniería en computación de la Universidad Don Bosco, El Salvador</p>
 <ul>
-  <li>Brayan Gerardo Gamez Ramírez - Grupo Teórico: <b>01T</b></li>
-  <li>David Enrique Moya Aguilar - Grupo Teórico: <b>01T</b></li>
+  <li>Brayan Gerardo Gamez Ramírez  - Grupo Teórico: <b>01T</b></li>
+  <li>David Enrique Moya Aguilar    - Grupo Teórico: <b>01T</b></li>
   <li>José Miguel Pérez Quintanilla - Grupo Teórico: <b>01T</b></li>
 </ul>
 
