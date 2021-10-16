@@ -37,7 +37,7 @@
   <li>Primer Avance de Proyecto [PDF] <b>Visitar en</b> https://drive.google.com/file/d/10CMMi6z7IHpbYLddHGY9u2A45O8WJHYa/view?usp=sharing </li>
   <li>Mockups de Proyecto [PDF] <b>Visitar en</b> https://drive.google.com/file/d/1pZTiZRIL5FHwGr9DGefXo5vMBLeyMefj/view?usp=sharing </li>
   <li>Documentación de API <b>Visitar en</b> https://documenter.getpostman.com/view/13637029/UV5RnfwR </li>
-  <li>Enlace a API <b>Visitar en</b> view-source:https://rest-server-dps-api.herokuapp.com/ </li>
+  <li>Enlace a API <b>Visitar en</b> https://rest-server-dps-api.herokuapp.com/ </li>
   <li>Manual Técnico [Cloud] <b>Visitar en</b> https://drive.google.com/file/d/1F0PxrKd0CDotdkvjOMkknaQP1YoYAskI/view?usp=sharing </li>
 </ul>
 
