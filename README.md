@@ -31,6 +31,7 @@
     <li>Se puede distribuir obras derivadas bajo una licencia idéntica a la licencia que regula la original.</li>
   </ol>
 
+
 <h1>Enlaces de interés ⛓️</h1>
 <ul>
   <li>Tablero de proyecto [Trello] <b>Visitar en</b> https://trello.com/b/RBIj1zL2/proyecto </li>
